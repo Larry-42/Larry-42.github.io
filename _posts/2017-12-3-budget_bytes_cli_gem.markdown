@@ -2,7 +2,7 @@
 layout: post
 title:      "CLI Ruby Gem:  Budget Bytes CLI"
 date:       2017-12-3 14:30:00 +0000
-permalink:  buget_bytes_cli_gem
+permalink:  budget_bytes_cli_gem
 ---
 
 
